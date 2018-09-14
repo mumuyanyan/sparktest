@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xgboost4j-0.7 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/resource/lib/xgboost4j-0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
